@@ -15,5 +15,6 @@ public class ClassStart3 {
 
         System.out.println("이름:" + s1.name + " 나이:" + s1.age + " 성적:" + s1.grade);
         System.out.println("이름:" + s2.name + " 나이:" + s2.age + " 성적:" + s2.grade);
+        //출력 시 학생별로 적어줘야한다는 아쉬움 -> 배열로 묶어서 해결
     }
 }
